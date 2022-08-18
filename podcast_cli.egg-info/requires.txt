@@ -1,0 +1,6 @@
+click
+colorama
+
+[plotting]
+matplotlib>=2.2.0
+jupyter

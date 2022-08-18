@@ -1,0 +1,10 @@
+setup.py
+podcast/__init__.py
+podcast/demo.py
+podcast/printer.py
+podcast_cli.egg-info/PKG-INFO
+podcast_cli.egg-info/SOURCES.txt
+podcast_cli.egg-info/dependency_links.txt
+podcast_cli.egg-info/entry_points.txt
+podcast_cli.egg-info/requires.txt
+podcast_cli.egg-info/top_level.txt
